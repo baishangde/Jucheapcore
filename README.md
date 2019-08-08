@@ -31,7 +31,7 @@ AutoMapper
 
 SimpleInjector
 
-JuCheap V3.0 变化
+#  JuCheap V3.0 变化
 1.JuCheap3.0改变了UI框架；以及表格控件由Datatable改回了jqgrid；
 
 2.认证方式由Form认证，改成了Asp.net Identity认证；
