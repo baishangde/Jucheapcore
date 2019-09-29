@@ -42,4 +42,4 @@ SimpleInjector
 
 5.EF和MVC同时都采用了异步编程方式；
 
-项目来源：https://github.com/baopingli/Jucheapcore
+项目来源：https://github.com/baopingli/Jucheapcore 用于收藏
